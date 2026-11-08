@@ -45,8 +45,8 @@ My field engineering experience also includes installation and maintenance of in
 ### 🛡️ Security & networking focus
 
 <p align="center">
-  <img alt="Network security" src="https://img.shields.io/badge/Network_Security-0E7490?style=for-the-badge" />
-  <img alt="OT and ICS security" src="https://img.shields.io/badge/OT%2FICS_Security-6D28D9?style=for-the-badge" />
+  <img alt="Network security" src="assets/network-security.svg" />
+  <img alt="OT and ICS security" src="assets/ot-ics-security.svg" />
   <img alt="Cisco IOS" src="https://img.shields.io/badge/Cisco_IOS-1D4ED8?style=for-the-badge" />
   <img alt="pfSense" src="https://img.shields.io/badge/pfSense-1E293B?style=for-the-badge" />
 </p>
