@@ -1,13 +1,15 @@
 <div align="center">
 
-![Saqib Hussain Khan — Practical software, Linux labs, and connected systems](assets/profile-banner.svg)
+![Saqib Hussain Khan — Cybersecurity, IT support, and industrial networks](assets/profile-banner.svg)
 
-**Turning concepts into working projects.**
+**Cybersecurity & IT Support Supervisor | Network Security | OT/ICS Security**
 
-I build applications, explore Linux administration, and connect systems through practical experiments.
+BS Digital Forensics and Cybersecurity student • Industrial electronics background • Karachi, Pakistan
 
 [![Explore projects](https://img.shields.io/badge/Explore_projects-38BDF8?style=for-the-badge&logo=github&logoColor=0B1120)](#-featured-projects)
 [![Browse repositories](https://img.shields.io/badge/Browse_repositories-A78BFA?style=for-the-badge&logo=github&logoColor=0B1120)](https://github.com/kevin-coder25?tab=repositories)
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saqib-hussain-khan)
 
 </div>
 
@@ -15,11 +17,39 @@ I build applications, explore Linux administration, and connect systems through 
 
 ### 👋 A little about me
 
-I'm **Saqib Hussain Khan**, learning through projects that bring programming, systems, and useful interfaces together. My work includes C# console applications, PHP/MySQL web apps, and a local monitoring demo that connects a C++ simulator to a Python backend over MQTT.
+I'm **Saqib Hussain Khan**, a Cybersecurity and IT Support Supervisor with a background in field engineering and industrial electronics. My work brings together network administration, domain management, end-user support, and the reliability of industrial systems.
 
-- 🐧 **Linux & automation** — system health checks, service inspection, and troubleshooting.
-- 🧩 **Application development** — interfaces, backend logic, and data storage.
-- 📚 **Learning in public** — documenting setup, architecture, and project limitations.
+I'm pursuing a **BS in Digital Forensics and Cybersecurity at Hamdard University**, with a focus on developing my capabilities in **OT/ICS security, SOC operations, and digital investigations**.
+
+- 🛡️ **Cybersecurity & IT support** — cybersecurity policy implementation, CERT participation, compliance auditing, and technical documentation.
+- 🌐 **Networking** — network design, Cisco IOS, pfSense, and industrial network connectivity.
+- 🔧 **Field engineering** — diagnostics and maintenance of tank level indication and fire alarm systems.
+- 🐧 **Hands-on learning** — Linux administration, Bash automation, and practical software projects.
+
+### 💼 Professional background
+
+**IT Support and Cybersecurity Supervisor**  
+Pakistan Navy – Ship Building Dockyard · **March 2019–present**
+
+Network administration, domain management, device support, and software/hardware troubleshooting. As a CERT team member, I contribute to cybersecurity policy implementation, compliance auditing, and documentation that supports secure operations and continuity.
+
+My field engineering experience also includes installation and maintenance of industrial instrumentation and safety systems, alongside industrial network diagnostics and troubleshooting.
+
+### 🎓 Education
+
+| Qualification | Institution | Dates |
+| :--- | :--- | :--- |
+| BS, Digital Forensics and Cybersecurity | Hamdard University | September 2025–September 2029 (in progress) |
+| Diploma of Associate Engineering, Industrial Electronics | Pakistan Navy Polytechnic Institute Karachi | January 2016–December 2018 |
+
+### 🛡️ Security & networking focus
+
+<p align="center">
+  <img alt="Network security" src="https://img.shields.io/badge/Network_Security-0E7490?style=for-the-badge" />
+  <img alt="OT and ICS security" src="https://img.shields.io/badge/OT%2FICS_Security-6D28D9?style=for-the-badge" />
+  <img alt="Cisco IOS" src="https://img.shields.io/badge/Cisco_IOS-1D4ED8?style=for-the-badge" />
+  <img alt="pfSense" src="https://img.shields.io/badge/pfSense-1E293B?style=for-the-badge" />
+</p>
 
 ### 🛠️ Technologies in my projects
 
@@ -70,12 +100,15 @@ I'm **Saqib Hussain Khan**, learning through projects that bring programming, sy
 </tr>
 </table>
 
-### 🌱 Building stronger foundations
+### 📚 Certifications & learning
 
-| Programming | Systems | Project craft |
-| :--- | :--- | :--- |
-| C++, C#, and Python practice | Linux administration and Bash automation | Clear setup guides and architecture notes |
-| Object-oriented design | Service inspection and health reporting | Documenting validation and limitations |
+- Foundations of Cybersecurity
+- Introduction to Kali Linux Basics
+- C++ Essentials 1
+- Introduction to Modern AI
+- Certificate of Participation — AIHackathon, Karachi Regional Technical Evaluation
+
+**Developing toward:** protecting critical infrastructure, SOC operations, and digital forensics, supported by Linux labs and programming practice.
 
 <details>
 <summary><strong>📂 More from my learning journey</strong></summary>
